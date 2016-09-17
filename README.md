@@ -1,4 +1,4 @@
-# AWS OpsWorks example cookbooks
+# AWS OpsWorks example cookbooks......
 
 Example cookbooks running on AWS OpsWorks using Chef 12.2 on Windows.
 
